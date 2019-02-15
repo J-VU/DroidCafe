@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Droid Deserts</string>
+    <!--main item descriptions-->
+    <string name="description_donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="description_icecream_sandwichs">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="description_froyo">FroYo is a premium self-serve frozen yogurt.</string>
+    <!--main item toasts messages-->
+    <string name="order_message_donut">You just bought a donut!</string>
+    <string name="order_message_icecream_sandwich">You just bought a ice cream sandwich!</string>
+    <string name="order_message_froyo">You just bought a froyo yogurt dessert!</string>
+    <!--labels-->
+    <string name="label_name_text">Name</string>
+    <string name="label_phone_text">Phone</string>
+    <string name="label_note_text">Note</string>
+    <string name="label_delivery_text">Choose Delivery Method:</string>
+    <string name="label_order_text">Your order</string>
+    <!--hints info for edit texts-->
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_phone">Enter phone</string>
+    <string name="hint_address">Enter your primary address</string>
+    <string name="hint_note">Leave a message</string>
+    <string name="label_address_text">Address</string>
+    <!--radio text/labels-->
+    <string name="radio_label_same_day">Same day messenger service</string>
+    <string name="radio_label_next_day">Next day ground delivery</string>
+    <string name="radio_label_pick_up">Pick up</string>
+    <!--array of items for phone type spinner-->
+    <string-array name="array_phone_type">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
